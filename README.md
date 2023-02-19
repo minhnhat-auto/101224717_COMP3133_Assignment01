@@ -11,7 +11,7 @@ In order to run the project, your computer needs to have these packages and envi
 First, you need to clone the project to your local machine
 
 ```bash
-git clone 
+git clone https://github.com/minhnhat-auto/101224717_COMP3133_Assignment01.git
 ``` 
 
 Run the following commands to install all dependencies :

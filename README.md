@@ -25,7 +25,7 @@ Run the command below command to start the project in development mode:
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:4000/graphql] (http://localhost:4000/graphql) your browser to see the result.
 
 ## Basic workflow
 ### Test

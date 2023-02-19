@@ -33,4 +33,3 @@ Open http://localhost:4000/graphql your browser to see the result.
 Username: "minhnhat-101224717"
 
 Password: "12345678"
-
